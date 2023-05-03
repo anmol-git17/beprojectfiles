@@ -12,7 +12,7 @@ SoftwareSerial ss(RXPin, TXPin);
 const char ssid[] = "DEVICE1234";  
 const char pass[] = "CARE1234";
 unsigned long myChannelNumber = 1921180;         
-const char * myWriteAPIKey = "BMXBK1ZWD8P9H4K6";
+const char * myWriteAPIKey = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 
 String latbuf,lonbuf;
 float latitude,longitude;
